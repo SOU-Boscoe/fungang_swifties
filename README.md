@@ -1,2 +1,2 @@
 # fungang_swifties
-# Kyle
+## Our in class project is writing code that will give you a contrating color to whatever your input it. This will help people pick out color palette for design projects. 
